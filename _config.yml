@@ -17,7 +17,7 @@ title: Poble Lliure
 email: info@poblelliure.cat
 description: >- # this means to ignore newlines until "baseurl:"
   Poble Lliure és una organització estratègica que lluita per a la construcció del Socialisme, la Independència dels Països Catalans i la superació del patriarcat.
-baseurl: "/poble-lliure" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Poble_Lliure
 
